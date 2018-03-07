@@ -1,0 +1,33 @@
+.body{
+font-family: 'Arimo', sans-serif;
+background-color: #092B40;
+color: white;
+}
+
+h1, h4, {
+  color:white;
+  font-size:2rem;
+
+}
+
+#output{
+  font-size: 1.5rem;
+}
+img{
+  margin:auto;
+  padding-top: 30px;
+}
+
+.image{
+  position:
+}
+
+#searchTerm
+{
+  margin-top: 15px;
+  color:black;
+}
+
+#output{
+  text-align:left;
+}
